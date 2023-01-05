@@ -51,6 +51,17 @@
     },
     "updater": {
       "active": false
-    }
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "height": 720,
+        "resizable": true,
+        "title": "Discord Lite",
+        "width": 1280,
+        "minHeight": 720,
+        "minWidth": 1280
+      }
+    ]
   }
 }
