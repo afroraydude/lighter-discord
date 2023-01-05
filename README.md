@@ -2,6 +2,14 @@
 
 A lightweight Discord client for Windows, Linux and macOS.
 
+## Why?
+
+The reason for creating lighter-discord is because of the slowness of Discord's underlying electron engine.
+Instead, lighter-discord uses a system-integrated webview engine, which can decrease RAM usage significantly.
+
+Notifications still work, voice and video also work as well. Extra features
+such as Push-to-talk hotkeys and custom themes/plugins are in the works.
+
 ## Features
 
 -   **Lightweight** - lighter-discord is a lightweight Discord client that uses less resources than the official client.
